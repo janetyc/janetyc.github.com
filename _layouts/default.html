@@ -1,27 +1,43 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Janet's Portfolio</title>
+    <meta name="description" content="">
+    <meta name="author" content="janetyc">
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
-<head>
-   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-   <title>{{ page.title }}</title>
-   <meta name="author" content="<%= @page.author %>" />
-
-   <!-- CodeRay syntax highlighting CSS -->
-   <link rel="stylesheet" href="/css/coderay.css" type="text/css" />
-
-   <!-- Homepage CSS -->
-   <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
-</head>
-<body>
-
-<div class="site">
-  <div class="title">
-    Janet Huang
-  </div>
-  
-  {{ content }}
-</div>
-
-</body>
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+        <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <script type="text/javascript">
+    </script>
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>Cloud Girl :)</h1>
+        <p></p>
+        <p>I'm Janet.</a>
+        <a href="/">Home</a><br/>
+        <a href="http://github.com">Projects</a><br/>
+        <a href="/about">About</a><br/>
+      </header>
+      <section>
+        {{ content }}
+      </section>
+      <footer>
+        <p>
+        <ul>
+          <li><a href="http://github.com/janetyc">Github</a></li>
+          <li><a href="http://twitter.com/janetyc">Twitter</a></li>
+          <li><a href="http://facebook.com/janetyctp">Facebook</a></li>
+        </ul>
+        </p>
+        <p><small>This blog is powered by <a href="http://github.com/mojombo/jekyll">jekyll</a>.</small></p>
+        <p>&copy 2012 Janetyc
+      </footer>
+    </div>
+    
+  </body>
 </html>

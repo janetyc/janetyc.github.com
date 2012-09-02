@@ -3,16 +3,13 @@ layout: default
 title: Janetyc's Portfolio
 ---
 
-<ul>
-  {% for post in site.posts %}
-    <li>{{ post.date }} <a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-{% assign first_post = site.posts.first %}
-<div id="first_post">
-  <h1>{{ first_post.title }}</h1>
-  <div>
-    {{ first_post.content }}
+<div id="home">
+  <div class="posts">
+    {% for post in site.posts reverse limit: 7 %}
+    <div class="post_info">
+      {{ post.content | replace: "more start -->","" | replace: "<!-- more end","" }}
+      <p><a href="{{ post.url }}">Continue Reading...</a></p>
+    </div>
+    {% endfor %}
   </div>
 </div>
