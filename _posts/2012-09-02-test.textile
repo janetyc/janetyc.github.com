@@ -1,8 +1,9 @@
+---
 layout: default
 title: Test github page
 categories:
-- foo
-- bar
-- baz
+- project
+- 2012
+---
 
 Test
