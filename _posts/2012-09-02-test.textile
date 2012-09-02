@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Test github page
+title: Test
 categories:
 - project
 - 2012
