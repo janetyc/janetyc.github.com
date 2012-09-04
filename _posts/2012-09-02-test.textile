@@ -1,9 +1,0 @@
----
-layout: default
-title: Test
-categories:
-- project
-- 2012
----
-
-Test
