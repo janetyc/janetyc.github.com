@@ -1,9 +1,8 @@
 ---
 layout: project
+image: tagprofile
+title: Tag-based Profile Presentation with Semantic Relationship (2008)
 ---
-
-Tag-based Profile Presentation with Semantic Relationship
-=====================================
 
 People construct personal profiles for self presentation and for obtaining online services. Profiles consisting of simple factual data provide an inadequate description of the individual, as they are often incomplete, mostly subjective and cannot reflect dynamic changes. This thesis explores the idea of “you-are-what-you-tag", namely, an individual can be effectively profiled by the tags associated with his/her social media. 
 

@@ -277,6 +277,31 @@ footer {
   margin-left: 10px;
 }
 
+/**
+* POST
+**/
+.post {
+   overflow: hidden;
+   margin-top: 3px;
+   border-bottom: 1px solid #f2f2f2;
+}
+.post_info {
+   float: left;
+   margin-left: 5px;
+   width: 430px;
+}
+.post_image {
+   display: block;
+   float: left;
+}
+.post_image img {
+   width: 130px;
+}
+
+.post_title{
+   color: #268785;
+   font-size: medium;
+}
 
 @media print, screen and (max-width: 960px) {
  

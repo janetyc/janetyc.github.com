@@ -6,9 +6,18 @@ title: Janetyc's Project
 <div id="projects">
   <div class="posts">
     {% for post in site.posts %}
-    <div class="post_info">
+    <div class="post">
+      {% if post.image %}
+      <div class="post_image"><img src="projects/{{ post.image }}.png"</img></div>
+      {% else %}
+      <div class="post_image"><img src="projects/default.png"></img></div>
+      {% endif %}
+    
+      <div class="post_info">
+      <span class="post_title">{{ post.title }}</span>
       {{ post.content | replace: "more start -->","" | replace: "<!-- more end","" }}
       <!--<p><a href="{{ post.url }}">more...</a></p>-->
+      </div>
     </div>
     {% endfor %}
   </div>

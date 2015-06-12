@@ -1,9 +1,8 @@
 ---
 layout: project
+title: Ya Oh! Pinball (Nightmarket 2006)
+image: pinball
 ---
-
-Ya Oh! Pinball (Nightmarket 2006)
-==========================================
 
 *People can recall the experience in Taiwan’s nightmarket and enjoy the happy atmosphere through a pinball game.*
 

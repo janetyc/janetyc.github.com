@@ -1,9 +1,8 @@
 ---
 layout: project
+image: virtualblog
+title: Virtual Blog (2005)
 ---
-
-Virtual Blog (2005)
-======================================================
 
 *Virtual Blog: Interoperable Blog, Album and Bookmark System in Virtual Reality*
 

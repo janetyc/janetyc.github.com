@@ -1,8 +1,7 @@
 ---
 layout: project
+image: crowdbutton
+title: CrowdButtons (2014-now)
 ---
-
-CrowdButtons (2014.03)
-============================
 
 * HCOMP 2014 WiP

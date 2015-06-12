@@ -1,9 +1,8 @@
 ---
 layout: project
+title: PhoneCode (2008)
+image: phonecode
 ---
-
-PhoneCode (2008)
-==============================
 
 *PhoneCode is a visual and musical expression to identify the difference among people through a series of phone number.*
 

@@ -1,9 +1,8 @@
 ---
 layout: project
+title: ShareWarm (2008)
+image: sharewarm
 ---
-
-ShareWarm (2008)
-==============================
 
 *ShareWarm is a affective object to help you deliver a implicit and warm message to someone else in a critical situation.*
 
