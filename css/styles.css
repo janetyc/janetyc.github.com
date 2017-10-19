@@ -4,7 +4,7 @@
 body {
   padding:50px;
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#777;
+  color:#333;
   font-weight:300;
 }
 
@@ -255,9 +255,17 @@ footer {
   height: 26px;
 }
 
+#small-bio {
+ float: left;
+ margin-top: 10px;
+ font-style: italic;
+ font-size: smaller;
+ color: #9a9a9a;
+}
+
 #bio {
  float: left;
- margin-top: 20px;
+ margin-top: 10px;
 }
 
 #profile {
@@ -283,24 +291,36 @@ footer {
 .post {
    overflow: hidden;
    margin-top: 3px;
+   margin-bottom: 3px;
    border-bottom: 1px solid #f2f2f2;
 }
 .post_info {
    float: left;
    margin-left: 5px;
-   width: 430px;
+   width: 400px;
 }
 .post_image {
    display: block;
    float: left;
 }
 .post_image img {
-   width: 130px;
+   margin-top: 5px;
+   width: 150px;
 }
 
 .post_title{
    color: #268785;
    font-size: medium;
+}
+
+.post_tags{
+   color: #555;
+   font-size: small;
+   font-weight: bold;
+}
+
+.pubs{
+   font-size: x-small;
 }
 
 @media print, screen and (max-width: 960px) {
