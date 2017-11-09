@@ -4,6 +4,7 @@ title: Seeing Aural (2013)
 image: seeing_aural
 year: 2013
 ---
+<div class="metadata">TEI 2014 Art Track</div>
 
 Seeing Aural - An Installation Transferring the Materials You Gaze to Sounds You Hear
 

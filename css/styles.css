@@ -323,6 +323,13 @@ footer {
    font-size: x-small;
 }
 
+.metadata{
+   color: #555;
+   font-size: small;
+   font-style: italic;
+   margin-bottom: 5px;
+}
+
 @media print, screen and (max-width: 960px) {
  
   div.wrapper {
