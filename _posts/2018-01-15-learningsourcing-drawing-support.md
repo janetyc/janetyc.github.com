@@ -2,7 +2,7 @@
 layout: project
 image: learningsourcing-for-drawing
 year: 2018
-title: Learningsourcing for Drawing Support (2018-now)
+title: Learningsourcing for Drawing Support (2018)
 ---
 
 <div class="metadata">CHI 2018 Late Break Work | <a href="/projects/CHI18EA-Huang.pdf">pre-print</a> | <a href="/projects/CHI18EA-poster.pdf">poster</a></div>
