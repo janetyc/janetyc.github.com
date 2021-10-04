@@ -2,7 +2,7 @@
 layout: project
 image: 2019-scifi-agents
 year:   2019
-title:  Sci-fi Voice Agents (2019.01-now)
+title:  Sci-fi Voice Agents (2019)
 ---
 
 <div class="metadata">CHI 2019 Late Break Work | <a href="/projects/CHI19EA-Cheng.pdf">pre-print</a> | <a href="/projects/CHI19EA-poster.pdf">poster</a></div>
