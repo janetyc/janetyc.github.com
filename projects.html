@@ -4,6 +4,8 @@ title: Janetyc's Project
 ---
 
 <div id="projects">
+  <div class="research-vision">
+  </div>
   <div class="posts">
     {% for post in site.posts %}
     <div class="post">
@@ -16,7 +18,7 @@ title: Janetyc's Project
       <div class="post_info">
       <span class="post_title">{{ post.title }}</span>
       
-      {{ post.content | replace: "more start -->","" | replace: "<!-- more end","" }}
+      {{ post.content | replace: "more start -->","" | replace: "more end","" }}
       <!--<p><a href="{{ post.url }}">more...</a></p>-->
       </div>
     </div>

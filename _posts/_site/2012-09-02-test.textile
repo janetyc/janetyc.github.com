@@ -1,8 +1,0 @@
-layout: default
-title: Test github page
-categories:
-- foo
-- bar
-- baz
-
-Test
